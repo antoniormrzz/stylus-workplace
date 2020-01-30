@@ -12,6 +12,7 @@ a project using gulp that makes it easy to generate css classes using stylus. ge
    - you can change **stylus/** contents now
    
 > you can find dev css with sourcemaps in `./css` and prod compressed versions in `./compressed`
+
 > uses gulp-cli v2 and gulp v4
 
 ## Use cases
