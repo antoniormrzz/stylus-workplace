@@ -8,7 +8,7 @@ a project using gulp that makes it easy to generate css classes using stylus. ge
    - clone the repo
    - run **npm install --global gulp-cli**
    - run **npm install**
-   - run **gulp**
+   - run **gulp** or **npm run start**
    - you can change **stylus/** contents now
    
 > you can find dev css with sourcemaps in `./css` and prod compressed versions in `./compressed`
