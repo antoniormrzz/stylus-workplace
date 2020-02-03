@@ -4,7 +4,8 @@
   "description": "a stylus playground using gulp",
   "main": "index.js",
   "scripts": {
-    "start": "gulp"
+    "start": "gulp",
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
@@ -12,9 +13,8 @@
     "gulp": "^4.0.2",
     "gulp-css-condense": "^1.1.2",
     "gulp-sourcemaps": "^2.6.5",
-    "gulp-stylus": "^2.7.0"
-  },
-  "dependencies": {
+    "gulp-stylus": "^2.7.0",
+    "css-validator": "^0.9.0",
     "lodash.template": "^4.5.0"
   }
 }
