@@ -17,6 +17,8 @@ a project using gulp that makes it easy to generate css classes using stylus. ge
    - requires jest
    - run **npm test**
    
+## Notes
+   
 > you can find dev css with sourcemaps in `./css` and prod compressed versions in `./compressed`
 
 > uses gulp-cli v2 and gulp v4
