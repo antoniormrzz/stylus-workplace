@@ -11,9 +11,17 @@ a project using gulp that makes it easy to generate css classes using stylus. ge
    - run **gulp** or **npm run start**
    - you can change **stylus/** contents now
    
+   
+## Test
+   
+   - requires jest
+   - run **npm test**
+   
 > you can find dev css with sourcemaps in `./css` and prod compressed versions in `./compressed`
 
 > uses gulp-cli v2 and gulp v4
+
+> running the test will produce sample results that will replace your produced css
 
 ## Use cases
 
