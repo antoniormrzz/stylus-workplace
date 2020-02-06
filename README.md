@@ -1,6 +1,6 @@
 # stylus-workplace
 
-a project using gulp that makes it easy to generate css classes using stylus. generates both dev and prod css files.
+a project using gulp that makes it easy to generate css using stylus. generates dev,prod,vendor and bundle files.
 
 
 ## Steps
@@ -19,7 +19,7 @@ a project using gulp that makes it easy to generate css classes using stylus. ge
    
 ## Notes
    
-> you can find dev css with sourcemaps in `./css`, prod compressed versions in `./compressed` and vendor prefixed prod compressed versions in `./vendor` (in most cases you should use `./vendor` files)
+> you can find dev css with sourcemaps in `./css`, prod compressed versions in `./compressed` and vendor prefixed prod compressed versions in `./vendor`, but what you usually should do, is include the `./final/styles.min.css` in your html, it will contain all your styles
 
 > uses gulp-cli v2 and gulp v4
 
