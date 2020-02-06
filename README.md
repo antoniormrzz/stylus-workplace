@@ -19,7 +19,7 @@ a project using gulp that makes it easy to generate css classes using stylus. ge
    
 ## Notes
    
-> you can find dev css with sourcemaps in `./css` and prod compressed versions in `./compressed`
+> you can find dev css with sourcemaps in `./css`, prod compressed versions in `./compressed` and vendor prefixed prod compressed versions in `./vendor` (in most cases you should use `./vendor` files)
 
 > uses gulp-cli v2 and gulp v4
 
