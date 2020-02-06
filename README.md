@@ -10,6 +10,7 @@ a project using gulp that makes it easy to generate css using stylus. generates 
    - run **npm install**
    - run **gulp** or **npm run start**
    - you can change **stylus/** contents now
+   - your bundle file **styles.min.css** is generated in `./final`
    
    
 ## Test
