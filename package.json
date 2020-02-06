@@ -16,5 +16,9 @@
     "gulp-stylus": "^2.7.0",
     "css-validator": "^0.9.0",
     "lodash.template": "^4.5.0"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.7.4",
+    "gulp-postcss": "^8.0.0"
   }
 }
